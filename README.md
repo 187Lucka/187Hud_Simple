@@ -1,5 +1,5 @@
 # 187Hud_Simple
-Discord : https://discord.gg/187Shop
+Discord : [187Shop](https://discord.gg/dzB6qV3tPy)
 
 Simple HUD created by 187Shop !
 
